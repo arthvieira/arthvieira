@@ -21,7 +21,8 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="32" alt="javascript logo"  />
 </div>
 
+<br>
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=60&section=footer&reversal=false&text=%22A%20verdadeira%20arte%20%C3%A9%20so%20o%20reflexo%20dos%20sentimentos%20de%20quem%20a%20contempla%22%20-%20Constantino%20Moretti&fontSize=17&fontColor=07030d&fontAlign=50&fontAlignY=59&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=dark"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=60&section=footer&reversal=false&text=%22A%20verdadeira%20arte%20%C3%A9%20so%20o%20reflexo%20dos%20sentimentos%20de%20quem%20a%20contempla%22%20-%20Constantino%20Moretti&fontSize=17&fontColor=07030d&fontAlign=50&fontAlignY=59&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=dark"/>
 </div>
