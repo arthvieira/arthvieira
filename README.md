@@ -1,6 +1,6 @@
-# Boa Tarde 🎉
+Olá!
 
--  Ola eu sou @arthvieira.
+-  Eu sou @arthvieira.
 -  Estou aprendendo Python, HTML e CSS
 -  Próxima linguagem: JavaScript
 
